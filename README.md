@@ -1,6 +1,6 @@
 # YAGU_GAME
 이번엔 자바로 야구게임을 만들었습니다.
-![image](https://user-images.githubusercontent.com/102115231/173282921-11869620-6a10-4c18-8ceb-a9ece6ddd7b2.png)<br>
+![image](https://user-images.githubusercontent.com/102115231/173287509-6292c6f7-596f-480e-9b54-48c4a96e9534.png)<br>
 먼저 1 에서 9 중 중복되지 않는 3개의 수를 뽑아본다. (맨 아래 출력문은 숫자 확인하기위해 쓰는거이기에 게임 실행 시 주석처리나 지우시길 바랍니다.)<br>
 ![image](https://user-images.githubusercontent.com/102115231/173283479-622bcc17-e5c2-4ca5-8732-f8a03c9ac59c.png)<br>
 이렇게 저장을 하고 게임이 시작됩니다.<br>
