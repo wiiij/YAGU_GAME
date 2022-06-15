@@ -24,4 +24,4 @@
 이렇게 글이 나오면서 끝나게된다.<br>
 ![image](https://user-images.githubusercontent.com/102115231/173286391-79cae9e8-6f58-43e8-ab95-c5457adca97e.png)<br>
 결과값을 출력하기 위해 값을 변환하여 저장한다.<br>
-
+여기까지 야구게임이었습니다.
